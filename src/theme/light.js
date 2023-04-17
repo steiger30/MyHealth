@@ -1,0 +1,13 @@
+export default {
+  COLORS_BACKGROUND: {
+
+
+  },
+  COLORS_TEXT: {
+    PRIMARY_100: '#FFFFFF',
+    PRIMARY_200: '#419ED7',
+    PRIMARY_300: '#3F92C5',
+    PRIMARY_400: '#FD7979',
+    PRIMARY_600: '#8B8B8B',
+  }
+}
